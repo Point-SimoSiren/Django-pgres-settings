@@ -1,3 +1,7 @@
+
+Tämä muutos tehdään settings.py tiedostoon kun otetaan postgreSQL käyttöön:
+Scrollaa alas kohtaan DATABASES, ja kommentoi vanha pois ja lisää uusi kuten alla:
+
 '''
 DATABASES = {
     'default': {
